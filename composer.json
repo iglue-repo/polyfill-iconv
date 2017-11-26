@@ -1,5 +1,8 @@
 {
-    "name": "symfony/polyfill-iconv",
+    "name": "symfony@iglue/polyfill-iconv",
+    "replace": {
+        "symfony/polyfill-iconv": "v1.6.0"
+    },
     "type": "library",
     "description": "Symfony polyfill for the Iconv extension",
     "keywords": ["polyfill", "shim", "compatibility", "portable", "iconv"],
